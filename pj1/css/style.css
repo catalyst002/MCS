@@ -26,19 +26,30 @@ h2 {
 	justify-content: center;
 }
 
-.menu {
+.menu ul{
 	display: flex;
-	justify-content: center;
+	justify-content:space-around;
+	flex-direction: row;
 	margin-top: 20px;
-	font-size: 20px;
+	font-size: 30px;
+	list-style: none;
+	color: pink;
+	background-color:black;
 }
 
+.menu {
+	padding-left: 40px;
+	padding-right: 20px;
+}
 .bio p {
 	padding-left: 40px;
 	padding-right: 40px;
 	text-align: center;
 	padding-top: 20px;
 	padding-bottom: 20px;
+}
+.bio {
+	margin-top: 50px;
 }
 a {
 	text-decoration: none !important;
