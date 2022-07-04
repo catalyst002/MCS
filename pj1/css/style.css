@@ -4,6 +4,7 @@
 body {
 	background: rgb(0,0,0);
 	background: linear-gradient(180deg, rgba(0,0,0,0.7371323529411764) 32%, rgba(0,0,0,0.7) 54%, rgba(6,0,8,0.66) 60%, rgba(231,97,237,0.6166841736694677) 100%);
+	color: rgb(235, 219, 253);
 }
 
 .header {
@@ -79,6 +80,7 @@ a {
 .links {
 	padding-left: 30px;
 	padding-right: 30px;
+	margin-top: 100px;
 }
 
 :-webkit-any-link {
