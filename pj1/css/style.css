@@ -1,0 +1,84 @@
+* {
+	box-sizing: border-box;
+}
+
+.header {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 20px 20px 0 40px;
+}
+
+h2 {
+	background-color: black;
+	color: white;
+	text-align: center;
+	margin: 20px 20px 0 40px;
+}
+
+.image {
+	margin-top: 20px;
+	display: flex;
+	justify-content: center;
+}
+
+.menu {
+	display: flex;
+	justify-content: center;
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.bio p {
+	padding-left: 40px;
+	padding-right: 40px;
+	text-align: center;
+}
+a {
+	text-decoration: none !important;
+}
+
+.songs {
+	margin-top: 20px;
+	padding-left: 46%;
+}
+
+.interview p {
+	text-align: center;
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.links ul {
+	display: flex;
+	justify-content:space-around;
+	flex-direction: row;
+	margin-top: 20px;
+	font-size: 30px;
+	list-style: none;
+	color: pink;
+	background-color:black
+}
+.links {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+
+:-webkit-any-link {
+	text-emphasis: none;
+	text-decoration: none;
+	color: inherit;
+}
+
+:-moz-any-link {
+	text-emphasis: none;
+	text-decoration: none;
+	color: inherit;
+}
+
+:any-link {
+	text-emphasis: none;
+	text-decoration: none;
+	color: inherit;
+	text-align: inherit;
+}
