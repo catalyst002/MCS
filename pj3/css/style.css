@@ -11,6 +11,7 @@
 	color: white;
 	height: 200px;
 	width: 1440px;
+	margin: 0 auto;
 }
 .container_header h1 {
 	padding-top: 5%;
@@ -22,12 +23,14 @@
 	background: url(/images/bg.png) center center/cover no-repeat;
 	width: 1440px;
 	height: 1080px;
+	margin: 0 auto;
 }
 
 .header_second {
 	background: #E5E000;
 	width: 1440px;
 	height: 100px;
+	margin: 0 auto;
 }
 .header_second h2 {
 	font-size: 25px;
@@ -42,12 +45,13 @@
 	font-size: 50px;
 	margin-top: 8%;
 	padding-left: 60px;
+	margin: 0 auto;
 }
 
 .cs_p1 {
 	display: block;
 	font-weight: 900;
-
+	margin-top: 70px;
 }
 
 .cs_p2 {
@@ -78,5 +82,6 @@
 	padding-left: 40px;
 	padding-right: 40px;
 	font-weight: 600;
+	margin: 0 auto;
 }
 
